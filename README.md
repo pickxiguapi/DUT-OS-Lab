@@ -18,13 +18,22 @@ Lab 1 should run in **Cygwin** environment. Lab 2 - Lab 5 GUI implement by **Tki
   
 ## Demo
 - lab 1
+  
   ![image.png](https://i.loli.net/2020/11/14/PKH5cBGWQYLeN9y.png)
+---
 - lab 2
+  
   ![image.png](https://i.loli.net/2020/11/14/QtpZJYR8GmUBrAV.png)
   ![image.png](https://i.loli.net/2020/11/14/di4NlumVIpc6JPq.png)
+---
 - lab 3
+  
   ![image.png](https://i.loli.net/2020/11/14/PrhvzixawKZ1uMO.png)
+---
 - lab 4
+  
   ![image.png](https://i.loli.net/2020/11/14/FQfbGsH5oZkqAd2.png)
+---
 - lab 5
+  
   ![image.png](https://i.loli.net/2020/11/14/T3iM7hUA2VeYIDy.png)
